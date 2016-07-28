@@ -1,0 +1,4 @@
+Var scanmetricol;
+
+scanmetricol = " "
+
