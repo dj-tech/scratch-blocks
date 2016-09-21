@@ -1,4 +1,0 @@
-Var scanmetricol;
-
-scanmetricol = " "
-
